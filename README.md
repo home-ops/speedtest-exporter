@@ -9,4 +9,5 @@ You can get all the documentation [here](https://docs.miguelndecarvalho.pt/proje
 
 ## Thanks to
 
+- [MiguelNdeCarvalho](https://github.com/MiguelNdeCarvalho)
 - [Nils Müller](https://github.com/tyriis)
