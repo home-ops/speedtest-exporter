@@ -61,7 +61,7 @@
       }
     ]
   },
-  "description": "Dashboard for Speedtest Exporter https://github.com/MiguelNdeCarvalho/speedtest-exporter",
+  "description": "Dashboard for Speedtest Exporter https://github.com/home-ops/speedtest-exporter",
   "editable": true,
   "fiscalYearStartMonth": 0,
   "gnetId": 13665,

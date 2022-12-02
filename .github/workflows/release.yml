@@ -43,7 +43,7 @@ jobs:
           platforms: linux/amd64,linux/arm/v6,linux/arm/v7,linux/arm64
           push: true
           tags: | 
-            miguelndecarvalho/speedtest-exporter:latest
-            miguelndecarvalho/speedtest-exporter:${{ steps.tag.outputs.tag }}
-            ghcr.io/miguelndecarvalho/speedtest-exporter:latest
-            ghcr.io/miguelndecarvalho/speedtest-exporter:${{ steps.tag.outputs.tag }}
+            home-ops/speedtest-exporter:latest
+            home-ops/speedtest-exporter:${{ steps.tag.outputs.tag }}
+            ghcr.io/home-ops/speedtest-exporter:latest
+            ghcr.io/home-ops/speedtest-exporter:${{ steps.tag.outputs.tag }}
