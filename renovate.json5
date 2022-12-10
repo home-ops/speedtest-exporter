@@ -50,6 +50,12 @@
     }
   ],
   "packageRules": [
+    //automerge
+    {
+      "matchUpdateTypes": ["minor", "patch"],
+      "matchCurrentVersion": "!/^0/",
+      "automerge": true
+    },
     {
       "description": "Disable kubernetes-api",
       "matchManagers": ["kubernetes"],
