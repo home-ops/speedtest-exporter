@@ -1,6 +1,6 @@
 # Speedtest Exporter
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/home-ops/speedtest-exporter/Docker?style=for-the-badge) ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/home-ops/speedtest-exporter?style=for-the-badge)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/home-ops/speedtest-exporter/docker-publish.yml?branch=main&style=for-the-badge) ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/home-ops/speedtest-exporter?style=for-the-badge)
 
 Simple Docker Image of **Speedtest exporter** for **Prometheus** written in **Python** using the official CLI from **Ookla**
 
